@@ -15,5 +15,5 @@ I'm a first-year Cybersecurity student based in Vinnytsia, Ukraine. I am passion
 - **Focus Areas:** Network Traffic Analysis, OSINT, Threat Detection
 
 ### 📫 How to reach me
-- **LinkedIn:** [Insert your link here]
+- **LinkedIn:** [https://www.linkedin.com/in/nazar-vlasiuk-a26416398/]
 - **TryHackMe:** [Insert your link here]
