@@ -16,4 +16,4 @@ I'm a first-year Cybersecurity student based in Vinnytsia, Ukraine. I am passion
 
 ### 📫 How to reach me
 - **LinkedIn:** [https://www.linkedin.com/in/nazar-vlasiuk-a26416398/]
-- **TryHackMe:** [Insert your link here]
+- **TryHackMe:** [(https://tryhackme.com/p/nazar1242)]
