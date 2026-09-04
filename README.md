@@ -3,13 +3,13 @@
 2nd-year Cybersecurity student at Donetsk National University in Vinnytsia, specializing in Blue Team operations, Digital Forensics, and Incident Response (DFIR). Focused on developing threat detection capabilities, analyzing network telemetry, and investigating security alerts.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazar1242&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazar1242&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazar1242&theme=tokyonight" height="150" alt="GitHub Streak" />
 </div>
 
 **Currently Learning & Working On**
 * Preparing for AWS Certified Cloud Practitioner (CLF-C02).
-* Developing custom detection engineering content (Sigma, YARA, Splunk SPL) mapped to MITRE ATT&CK.
+* Deepening practical skills in log analysis and incident investigation through lab environments.
 
 **Certifications**
 * TryHackMe Security Operations Center (SOC) Level 1
