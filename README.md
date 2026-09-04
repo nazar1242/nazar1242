@@ -2,10 +2,6 @@
 
 2nd-year Cybersecurity student at Donetsk National University in Vinnytsia, specializing in Blue Team operations, Digital Forensics, and Incident Response (DFIR). Focused on developing threat detection capabilities, analyzing network telemetry, and investigating security alerts.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazar1242&theme=tokyonight" height="150" alt="GitHub Streak" />
-</div>
-
 **Currently Learning & Working On**
 * Preparing for AWS Certified Cloud Practitioner (CLF-C02).
 * Deepening practical skills in log analysis and incident investigation through lab environments.
