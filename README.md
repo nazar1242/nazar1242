@@ -1,24 +1,19 @@
-# Hi there, I'm Nazar Vlasiuk 👋
+**Nazar Vlasiuk | Junior SOC Analyst**
 
-I'm a 2nd-year Cybersecurity student based in Vinnytsia, Ukraine, specializing in Blue Team operations, threat detection, and incident response. I build automation tools and analyze network traffic. Currently seeking opportunities to apply my practical skills as a Junior SOC Analyst or Cybersecurity Intern.
+2nd-year Cybersecurity student at Donetsk National University specializing in Blue Team operations, Digital Forensics, and Incident Response (DFIR). Focused on developing threat detection capabilities, analyzing network telemetry, and investigating security alerts.
 
-### 🎓 Education & Certifications
+**Certifications**
+* TryHackMe Security Operations Center (SOC) Level 1
+* Google Cybersecurity Professional Certificate
+* Cisco Introduction to Cybersecurity
 
-* **BSc in Cybersecurity** — Donetsk National University named after Vasyl Stus (2nd-year student)
-* **Certifications & Training:**
-  * TryHackMe SOC Level 1 Certificate
-  * Google Cybersecurity Professional Certificate
-  * Cisco Introduction to Cybersecurity
+**Technical Capabilities & Toolstack**
+* **SIEM & Log Management:** Splunk, Elastic Security (ELK Stack)
+* **Network Traffic Analysis (NTA):** Wireshark, TShark, Zeek, Suricata, Brim
+* **Endpoint Forensics & DFIR:** Volatility, Sysmon, Windows Event Logs, OSquery
+* **Threat Intelligence & Analysis:** YARA, CyberChef, MITRE ATT&CK Framework
+* **Scripting & Automation:** Python (Scikit-learn, NLP), SQL, Linux Bash
 
-### 🛠 Tech Stack & Tools
-
-* **SIEM & Log Analysis:** Splunk, ELK Stack, Windows Event Logs
-* **Security Tools:** Wireshark, Nmap, YARA, Burp Suite
-* **Operating Systems:** Linux (Parrot Security OS, Ubuntu), Windows
-* **Languages:** Python (scripting, automation, ML for security), SQL
-* **Focus Areas:** Incident Response, Network Traffic Analysis, Threat Hunting
-
-### 📫 How to reach me
-
+**Contact & Platforms**
 * **LinkedIn:** [Nazar Vlasiuk](https://www.linkedin.com/in/nazar-vlasiuk-a26416398/)
-* **TryHackMe:** [My Public Profile](https://tryhackme.com/p/Sizigo)
+* **TryHackMe:** [Sizigo](https://tryhackme.com/p/Sizigo)
