@@ -3,7 +3,7 @@
 2nd-year Cybersecurity student at Donetsk National University in Vinnytsia, specializing in Blue Team operations, Digital Forensics, and Incident Response (DFIR). Focused on developing threat detection capabilities, analyzing network telemetry, and investigating security alerts.
 
 **Currently Learning & Working On**
-* Completing a university course on Cisco security operations (CyberOps/Cybersecurity Associate track)
+* Completing a university course on Networking Fundamentals (Cisco Networking Academy)
 * Preparing for Microsoft SC-900 (Security, Compliance, and Identity Fundamentals)
 
 **Certifications**
