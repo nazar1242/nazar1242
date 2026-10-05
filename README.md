@@ -6,6 +6,9 @@
 * Completing a university course on Networking Fundamentals (Cisco Networking Academy)
 * Preparing for Microsoft SC-900 (Security, Compliance, and Identity Fundamentals)
 
+**Security Research**
+* [Responsible Disclosure: Broken Access Control in the Welmi Android app](https://github.com/nazar1242/soc-analyst-lab-reports/blob/main/responsible-disclosure/welmi/welmi-responsible-disclosure.md) — reported privately, fixed by the vendor, and acknowledged in writing.
+
 **Certifications**
 * TryHackMe Security Operations Center (SOC) Level 1
 * Google Cybersecurity Professional Certificate
